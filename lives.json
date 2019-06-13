@@ -2,34 +2,46 @@
   "visibleCount": 4,
   "lives": [
     {
+      "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/461595081319502/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
+      "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/702944396807493/",
       "#title": "RTHKVNEWS",
       "active": true
     },
     {
+      "type": "facebook",
       "#id": "https://www.facebook.com/now.comNews/videos/601135177061821/",
       "#title": "now.comNews",
       "active": false
     },
     {
+      "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/270422627112505/",
       "#title": "hk.nextmedia",
       "active": true
     },
     {
+      "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/457575865067106/",
       "#title": "standnewshk",
       "active": true
     },
     {
+      "type": "facebook",
       "#id": "https://www.facebook.com/onccnews/videos/2347986585414456/",
       "#title": "onccnews",
       "active": false
+    },
+    {
+      "type": "default",
+      "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
+      "#title": "yahootv",
+      "active": true
     }
   ]
 }
