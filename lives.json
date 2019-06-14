@@ -38,6 +38,12 @@
       "active": false
     },
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Vev7rOEXGfI",
+      "#title": "HKTheEpochTimes",
+      "active": true
+    },
+    {
       "type": "yahoo",
       "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
       "#title": "yahootv",
