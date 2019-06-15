@@ -11,7 +11,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/843409356039052/",
       "#title": "RTHKVNEWS",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -23,19 +23,19 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/hk.nextmedia/videos/885022285166321/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/628957620943315/",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/2355357858044998/",
       "#title": "inmediahk",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
