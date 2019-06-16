@@ -1,5 +1,5 @@
 {
-  "visibleCount": 4,
+  "visibleCount": 8,
   "lives": [
     {
       "type": "facebook",
@@ -11,7 +11,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/463724431057974/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -29,7 +29,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/2236708109992472/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
