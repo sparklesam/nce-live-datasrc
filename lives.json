@@ -60,6 +60,12 @@
       "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
       "#title": "yahootv",
       "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Oc1FHqcLgX0",
+      "#title": "RTHK 城市論壇",
+      "active": true
     }
   ]
 }
