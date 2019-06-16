@@ -11,7 +11,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/840537962992171/",
       "#title": "RTHKVNEWS",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -27,9 +27,9 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/326662251573233/",
+      "#id": "https://www.facebook.com/standnewshk/videos/874783889540353/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -47,7 +47,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/JustProductionAus/videos/379956362641870/",
       "#title": "JustProductionAus",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -65,7 +65,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
       "#title": "RTHKcityforum",
-      "active": true
+      "active": false
     }
   ]
 }
