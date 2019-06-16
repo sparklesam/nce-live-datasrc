@@ -3,15 +3,15 @@
   "lives": [
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/1896584730440994/",
+      "#id": "https://www.facebook.com/icablenews/videos/942098666131952/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/840537962992171/",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/463724431057974/",
       "#title": "RTHKVNEWS",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
@@ -21,13 +21,13 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/885022285166321/",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/2385543361676096/",
       "#title": "hk.nextmedia",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/370661430475832/",
+      "#id": "https://www.facebook.com/standnewshk/videos/2498940580334560/",
       "#title": "standnewshk",
       "active": true
     },
@@ -39,7 +39,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/704841649936352/",
+      "#id": "https://www.facebook.com/inmediahk/videos/435474993959968/",
       "#title": "inmediahk",
       "active": true
     },
