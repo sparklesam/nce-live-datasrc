@@ -27,7 +27,7 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/628957620943315/",
+      "#id": "https://www.facebook.com/standnewshk/videos/326662251573233/",
       "#title": "standnewshk",
       "active": false
     },
@@ -42,6 +42,12 @@
       "#id": "https://www.facebook.com/onccnews/videos/2347986585414456/",
       "#title": "onccnews",
       "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/JustProductionAus/videos/379956362641870/",
+      "#title": "JustProductionAus",
+      "active": true
     },
     {
       "type": "youtube",
