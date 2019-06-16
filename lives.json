@@ -62,9 +62,9 @@
       "active": false
     },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Oc1FHqcLgX0",
-      "#title": "RTHK 城市論壇",
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
+      "#title": "RTHKcityforum",
       "active": true
     }
   ]
