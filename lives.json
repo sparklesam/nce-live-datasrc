@@ -33,13 +33,13 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/2360751340848571/",
+      "#id": "https://www.facebook.com/standnewshk/videos/199491664322035/",
       "#title": "standnewshk2",
       "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/410323266362443/",
+      "#id": "https://www.facebook.com/standnewshk/videos/844612892570205/",
       "#title": "inmediahk",
       "active": true
     },
@@ -56,10 +56,10 @@
       "active": false
     },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/13Tr91aBK6E",
-      "#title": "HKTheEpochTimes",
-      "active": false
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hongkongfp/videos/1160844147451044/",
+      "#title": "HKFP",
+      "active": true
     },
     {
       "type": "youtube",
